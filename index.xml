@@ -23,8 +23,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-1/</guid>
-      <description>Below are the Items discussed in this Project:
- Problem Statement and Data Description Exploratory Data Analysis on all types of variables - Univariate,Bivariate and Multivariate One-Hot-Encoding and Normalization Hyper-Parameter Tuning, ROC-AUC curves, Confusion Matrix Training different kinds of Models on Classification Techniques Comparison of all the models  Link to Medium Article
+      <description>Healthcare providers have benfited greatly from technological advancements. These days they have an extra challenge of finding the patients whom they need to treat multiple times, especially diabetic patients. The Goal behind this task, is to use this information for optimal resource allocation and better functioning.
+Link to Medium Article
 Link to Github Repository</description>
     </item>
     
@@ -34,9 +34,8 @@ Link to Github Repository</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-2/</guid>
-      <description>Below are the Items discussed in this Project:
- Problem Statement and Data Description Exploratory Data Analysis on all types of variables - Univariate,Bivariate and Multivariate Defining Metrics for Regression Model Different kinds of Models used for Regression Comparison of all the models  Link to Medium Article
-Link to Github Repository</description>
+      <description>YouTuber is developed as a new type of career in recent decades. It also has become a source to earn money based on the popularity of the videos. The Goal here is to have a preliminary prediction of the videos likes, and understanding on their videos’ performance, so that they may adjust their video to gain the more attention from the public, and eventually earn more money.
+Link to Medium Article</description>
     </item>
     
     <item>
@@ -45,8 +44,8 @@ Link to Github Repository</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-3/</guid>
-      <description>Below are the Items discussed in this Project:
- Difference between Multi-Class v/s Multi-Label Classification Exploratory Data Analysis on the Datasets Model Building - BOW Approach, TFIDF Approach Data Cleansing Comparison of all the model  Link to Medium Article
+      <description>Researchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more and more difficult. Tagging or topic modelling provides a way to give clear token of identification to research articles which facilitates recommendation and search process in a much better way. Goal here is to predict the tags for each article based on the abstract words(NLP).
+Link to Medium Article
 Link to Github Repository</description>
     </item>
     
