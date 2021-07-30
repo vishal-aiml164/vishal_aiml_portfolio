@@ -3,6 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vishal-aiml164.github.io/vishal_aiml_portfolio/</loc>
+    <lastmod>2021-07-30T12:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/</loc>
+    <lastmod>2021-07-30T12:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-1/</loc>
+    <lastmod>2021-07-15T12:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-2/</loc>
+    <lastmod>2021-05-28T12:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-3/</loc>
+    <lastmod>2021-01-05T12:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-4/</loc>
+    <lastmod>2020-08-01T12:00:00+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://vishal-aiml164.github.io/vishal_aiml_portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -16,12 +58,6 @@
   
   <url>
     <loc>https://vishal-aiml164.github.io/vishal_aiml_portfolio/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://vishal-aiml164.github.io/vishal_aiml_portfolio/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
