@@ -5,8 +5,7 @@
     <link>https://vishal-aiml164.github.io/vishal_aiml_portfolio/</link>
     <description>Recent content in Data Science and Machine Learning Portfolio on Vishal K Singh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://vishal-aiml164.github.io/vishal_aiml_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://vishal-aiml164.github.io/vishal_aiml_portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>https://vishal-aiml164.github.io/vishal_aiml_portfolio/contact/</link>
@@ -14,39 +13,7 @@
       
       <guid>https://vishal-aiml164.github.io/vishal_aiml_portfolio/contact/</guid>
       <description>Follow me on these social media platforms.
-   Platform URL     Website: https://vishal-aiml164.github.io/vishal_aiml_portfolio/   Medium: https://vishal-aiml164.medium.com/   GitHub: https://github.com/vishal-aiml164/ML_PROJECTS    </description>
-    </item>
-    
-    <item>
-      <title>Project-1: Diabetes Patient Re-Admission Prediction</title>
-      <link>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-1/</guid>
-      <description>Healthcare providers have benfited greatly from technological advancements. These days they have an extra challenge of finding the patients whom they need to treat multiple times, especially diabetic patients. The Goal behind this task, is to use this information for optimal resource allocation and better functioning.
-Link to Medium Article
-Link to Github Repository</description>
-    </item>
-    
-    <item>
-      <title>Project-2: Predicting the number of likes for youtube video</title>
-      <link>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-2/</guid>
-      <description>YouTuber is developed as a new type of career in recent decades. It also has become a source to earn money based on the popularity of the videos. The Goal here is to have a preliminary prediction of the videos likes, and understanding on their videos’ performance, so that they may adjust their video to gain the more attention from the public, and eventually earn more money.
-Link to Medium Article</description>
-    </item>
-    
-    <item>
-      <title>Project-3: Multi-Class Classification of Research Articles</title>
-      <link>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-3/</guid>
-      <description>Researchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more and more difficult. Tagging or topic modelling provides a way to give clear token of identification to research articles which facilitates recommendation and search process in a much better way. Goal here is to predict the tags for each article based on the abstract words(NLP).
-Link to Medium Article
-Link to Github Repository</description>
+   Platform URL     Website: https://vishal-aiml164.github.io/vishal_aiml_portfolio/   Medium: https://vishal-aiml164.medium.com/   GitHub: https://github.com/vishal-aiml164/ML_PROJECTS   LinkedIn: https://www.linkedin.com/in/vishal-singh-010208209/    </description>
     </item>
     
   </channel>
