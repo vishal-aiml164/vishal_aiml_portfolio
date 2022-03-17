@@ -10,10 +10,21 @@
     <item>
       <title>Project-1: Drug marketing and Physician Targeting</title>
       <link>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-1/</link>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 +0500</pubDate>
+      <pubDate>Fri, 15 Oct 2021 12:00:00 +0500</pubDate>
       
       <guid>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-1/</guid>
       <description>With the increasing competition within pharmaceutical companies and tight regulations by the governments, it has become very difficult to market their drugs and target the physicians to prescribe their drugs once tested properly. So the role of Sales and marketing in pharmaceutical industry has become more critical in the recent times. In this article we will discuss how a machine learning model will help in analyzing the data, and predict the right physician to target, so as to market their drug.</description>
+    </item>
+    
+    <item>
+      <title>Project-2: Multi-Class Classification of Research Articles</title>
+      <link>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-2/</link>
+      <pubDate>Sun, 01 Aug 2021 12:00:00 +0500</pubDate>
+      
+      <guid>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-2/</guid>
+      <description>Researchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more and more difficult. Tagging or topic modelling provides a way to give clear token of identification to research articles which facilitates recommendation and search process in a much better way. Goal here is to predict the tags for each article based on the abstract words(NLP).
+Link to Medium Article
+Link to Github Repository</description>
     </item>
     
     <item>
@@ -28,7 +39,7 @@
     <item>
       <title>Project-4: Named Entity Recognition - Clinical Data Extraction</title>
       <link>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-4/</link>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 +0500</pubDate>
+      <pubDate>Thu, 15 Apr 2021 12:00:00 +0500</pubDate>
       
       <guid>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-4/</guid>
       <description>Named Entity Recognition (NER) — also referred to as named entity extraction or identification — is an extraction technique that automatically identifies key information from text data and classifies them into predefined categories. It is a subtask of information extraction that seeks to locate and classify named entities mentioned in unstructured text into pre-defined categories such as person names, organisations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc. In this article we will take example of clincal data and discuss how a NER model can be built using SpaCy and relevant entities are extracted as per the requirement.</description>
@@ -37,7 +48,7 @@
     <item>
       <title>Project-5: Diabetes Patient Re-Admission Prediction</title>
       <link>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-5/</link>
-      <pubDate>Fri, 28 May 2021 12:00:00 +0500</pubDate>
+      <pubDate>Sun, 28 Mar 2021 12:00:00 +0500</pubDate>
       
       <guid>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-5/</guid>
       <description>Healthcare providers have benfited greatly from technological advancements. These days they have an extra challenge of finding the patients whom they need to treat multiple times, especially diabetic patients. The Goal behind this task, is to use this information for optimal resource allocation and better functioning.
@@ -48,22 +59,11 @@ Link to Github Repository</description>
     <item>
       <title>Project-6: Predicting the number of likes for youtube video</title>
       <link>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-6/</link>
-      <pubDate>Tue, 05 Jan 2021 12:00:00 +0500</pubDate>
+      <pubDate>Sun, 05 Jan 2020 12:00:00 +0500</pubDate>
       
       <guid>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-6/</guid>
       <description>YouTuber is developed as a new type of career in recent decades. It also has become a source to earn money based on the popularity of the videos. The Goal here is to have a preliminary prediction of the videos likes, and understanding on their videos’ performance, so that they may adjust their video to gain the more attention from the public, and eventually earn more money.
 Link to Medium Article</description>
-    </item>
-    
-    <item>
-      <title>Project-2: Multi-Class Classification of Research Articles</title>
-      <link>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-2/</link>
-      <pubDate>Sat, 01 Aug 2020 12:00:00 +0500</pubDate>
-      
-      <guid>https://vishal-aiml164.github.io/vishal_aiml_portfolio/post/project-2/</guid>
-      <description>Researchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more and more difficult. Tagging or topic modelling provides a way to give clear token of identification to research articles which facilitates recommendation and search process in a much better way. Goal here is to predict the tags for each article based on the abstract words(NLP).
-Link to Medium Article
-Link to Github Repository</description>
     </item>
     
   </channel>
